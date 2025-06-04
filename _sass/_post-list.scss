@@ -1,5 +1,5 @@
 .post-list {
-  margin: 1em 0;
+  margin-left: 1em;
   list-style: none;
   &:hover,
   &:focus-within {
@@ -71,7 +71,6 @@
   }
   a {
     text-decoration: none;
-    text-transform: uppercase;
     transition: opacity .125s ease-in-out;
     &:hover,
     &:focus {

@@ -45,7 +45,7 @@
   font-weight: 400;
   font-display: swap;
   src: local("NeueMontreal-Regular"),
-       url("/assets/fonts/NeueMontreal-Regular.otf") format("opentype");
+       url("#{$asset_url}/fonts/NeueMontreal-Regular.otf") format("opentype");
 }
 
 // Neue Montreal Medium
@@ -55,7 +55,7 @@
   font-weight: 500;
   font-display: swap;
   src: local("NeueMontreal-Medium"),
-       url("/assets/fonts/NeueMontreal-Medium.otf") format("opentype");
+       url("#{$asset_url}/fonts/NeueMontreal-Medium.otf") format("opentype");
 }
 
 // Neue Montreal Bold
@@ -65,7 +65,7 @@
   font-weight: 700;
   font-display: swap;
   src: local("NeueMontreal-Bold"),
-       url("/assets/fonts/NeueMontreal-Bold.otf") format("opentype");
+       url("#{$asset_url}/fonts/NeueMontreal-Bold.otf") format("opentype");
 }
 
 // Neue Montreal Light
@@ -75,7 +75,7 @@
   font-weight: 300;
   font-display: swap;
   src: local("NeueMontreal-Light"),
-       url("/assets/fonts/NeueMontreal-Light.otf") format("opentype");
+       url("#{$asset_url}/fonts/NeueMontreal-Light.otf") format("opentype");
 }
 
 // Neue Montreal Italic
@@ -85,7 +85,7 @@
   font-weight: 400;
   font-display: swap;
   src: local("NeueMontreal-Italic"),
-       url("/assets/fonts/NeueMontreal-Italic.otf") format("opentype");
+       url("#{$asset_url}/fonts/NeueMontreal-Italic.otf") format("opentype");
 }
 
 // Neue Montreal Medium Italic
@@ -95,7 +95,7 @@
   font-weight: 500;
   font-display: swap;
   src: local("NeueMontreal-MediumItalic"),
-       url("/assets/fonts/NeueMontreal-MediumItalic.otf") format("opentype");
+       url("#{$asset_url}/fonts/NeueMontreal-MediumItalic.otf") format("opentype");
 }
 
 // Neue Montreal Bold Italic
@@ -105,5 +105,5 @@
   font-weight: 700;
   font-display: swap;
   src: local("NeueMontreal-BoldItalic"),
-       url("/assets/fonts/NeueMontreal-BoldItalic.otf") format("opentype");
+       url("#{$asset_url}/fonts/NeueMontreal-BoldItalic.otf") format("opentype");
 }
