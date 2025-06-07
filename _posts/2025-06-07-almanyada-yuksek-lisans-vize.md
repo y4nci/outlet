@@ -70,7 +70,7 @@ Başvurunuzu yükledikten sonra, sistemde oldukça korkutucu ve --bence-- yanıl
 
 ![Auslandsportal İnceleme Mesajı](/outlet/assets/post-images/jumpscare.jpeg)
 
-Korkmaya gerek yok, çünkü --en azından benim durumumda-- orada yazdığı gibi 1 yıl falan beklemedim. Ben portaldaki başvurumu tamamladıktan ve yükledikten sonra yaklaşık 5 hafta içinde belgelerim incelemeye alınmıştı.
+Korkmaya gerek yok, çünkü --en azından benim durumumda-- orada yazdığı gibi 1 yıl falan beklemedim. Ben portaldaki başvurumu tamamladıktan ve yükledikten sonra yaklaşık 4 hafta içinde belgelerim incelemeye alınmıştı.
 
 İnceleme süreci şöyle işliyor: Sizin portala yüklediğiniz belgeleri **iDATA yetkilileri** yine portal üzerinden inceliyor ve gerekli düzeltmeleri size portal üzerinden geri bildirim olarak yolluyor. Geri bildirim arayüzü tıpkı Turnitin gibi, sadece değişiklikler bazen kendiliğinden geri alınıyor o yüzden düzeltmeyi yaptığınızdan emin olmak adına dikkatli olun derim; ancak değişikliklerinizi kaydederken bir sıkıntı olması durumunda da yine sizden aynı düzeltmeyi yapmanızı istiyorlar zaten, o yüzden sorun yok. Sizin yaptığınız değişiklikleri de mesai saatleri içinde 1-2 saat gibi bir sürede inceleyip tekrar düzeltme gerekiyorsa formu güncelliyorlar, gerçekten hızlı ve kolay bir süreç.
 
@@ -91,6 +91,19 @@ Bir de sizden istenen vize ücretini (€75) görüşme sırasında iDATA ofisin
 Vize görüşmesinde pasaportunuzu ve belgelerinizi teslim ettikten sonra size bir barkod numarası ve bir SIM kart veriliyor. Barkod numaranızı kullanarak vize başvurunuzun durumunu takip edebilirsiniz. SIM kart ise Almanya'ya vardığınızda kullanmanız için veriliyor, bu yüzden onu da saklamanızı öneririm; ancak çoğu insan bu SIM kartını geçici bir çözüm olarak kullanıyor, çünkü Almanya'da kalıcı bir telefon hattı almak daha hesaplı oluyor.
 
 Benim vize başvurumdan yaklaşık 4 hafta sonra bana **Referat TN – Türkei und Naher und Mittlerer Osten / Abteilung V – Visa, Bundesamt für Auswärtige Angelegenheiten (BfAA)**'dan (Almanya Federal Dışişleri Dairesi (BfAA) Vize Dairesi – Türkiye ile Yakın ve Orta Doğu Masası) bir mail geldi. Bu mailde, benden TU Berlin'de aktif öğrenciliğimi kanıtlayan bir öğrenci belgesini ertesi günün sonuna kadar iletmem istendi. Bu tür mailler, vize başvuru sürecinin bir parçası olarak sıkça karşılaşabileceğiniz durumlardır. Bu nedenle, başvuru süreciniz boyunca e-posta adresinizi düzenli olarak kontrol etmeniz önemlidir.
+
+## Kronoloji
+
+Aşağıda benim vize başvurumun kronolojik sırasını paylaşıyorum. Bu tarihler, sizin için bir referans noktası olabilir; ancak her başvuru süreci farklılık gösterebilir.
+
+ 1. `2 Şubat`: TU Berlin başvurumu Uni-Assist üzerinden yaptım.
+ 2. `18 Şubat`: Uni-Assist'teki başvurum TU Berlin'e iletildi.
+ 3. `26 Mart`: TU Berlin'den kabul mektubum geldi.
+ 4. `31 Mart`: Auslandsportal'daki başvurumu tamamladım ve yükledim.
+ 5. `25 Nisan`: Auslandsportal'dan başvurumun incelemeye alındığına dair bildirim aldım.
+ 6. `30 Nisan`: iDATA tarafından görüşme tarihi atandı.
+ 7. `7 Mayıs`: iDATA ofisinde vize görüşmemi gerçekleştirdim.
+ 8. `5 Haziran`: BfAA'dan öğrenci belgesi talebi maili aldım (deadline: 6 Haziran).
 
 ## Son Söz
 
