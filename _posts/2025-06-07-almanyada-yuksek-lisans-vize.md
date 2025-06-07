@@ -43,7 +43,7 @@ iDATA'nın temel görevleri şunlardır:
 iDATA, **vizeyi doğrudan veren kurum değildir**; yalnızca başvurunuzu Almanya Konsolosluğu’na ulaştırmakla görevlidir. Nihai karar her zaman Almanya’nın diplomatik temsilcilikleri tarafından verilir.
 
 iDATA hakkında daha fazla bilgi almak için:
- - 🔗 https://idata.com.tr
+ - 🔗 [https://idata.com.tr](https://idata.com.tr)
 
 ### Auslandsportal Nedir?
 
