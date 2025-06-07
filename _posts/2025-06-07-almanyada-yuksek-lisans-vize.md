@@ -12,17 +12,46 @@ Bir önceki yazıda Almanya’da yüksek lisans başvuru sürecini anlatmıştı
 
 ## Vize Başvuru Süreci Ne Zaman Başlar?
 
-Almanya’da eğitim alacak öğrenciler, **ulusal vize (D tipi vize)** kategorisinden başvuru yapıyor. Bu vize, 90 günden uzun süreli eğitimler için geçerli. Vize süreci, **Almanya’da bir yüksek lisans programına resmî kabul aldıktan sonra başlıyor**. Eski sistemde elinizde bir kabul mektubu olmadan iDATA aracılığıyla vize randevusuna başvurmanız mümkündü, şanslıysanız size atanan randevu tarihine kadar da belgeleriniz hazır oluyordu. Ancak, yakın zamanda getirilen ve aşağıda bahsedeceğim değişikliklerle birlikte sistem yenilendi ve artık bütün belgeleriniz hazır olmadan başvurmanız mümkün değil; zira artık randevu alma süreci farklı ilerliyor. Bununla birlikte, **vize başvuru süreci zaman açısından çok uzun sürdüğü için** bu aşamaya gelmeden önce başvurular hakkında genel bilgi edinmeniz ve gereken belgeleri hazırlamaya başlamanız akıllıca olur.
+Almanya’da eğitim alacak öğrenciler, **ulusal vize (D tipi vize)** kategorisinden başvuru yapıyor. Bu vize, 90 günden uzun süreli eğitimler için geçerli. Vize süreci **Almanya’da bir yüksek lisans programına resmî kabul aldıktan sonra başlıyor**; ancak belirli belgelerin çıkması zaman aldığı için kabulünüz gelmeden önce harekete geçmeniz gerekebilir. Eski sistemde elinizde bir kabul mektubu olmadan iDATA aracılığıyla vize randevusuna başvurmanız mümkündü, şanslıysanız size atanan randevu tarihine kadar da belgeleriniz hazır oluyordu; ancak, yakın zamanda getirilen ve aşağıda bahsedeceğim değişikliklerle birlikte sistem yenilendi ve artık bütün belgeleriniz hazır olmadan başvurmanız mümkün değil; zira artık randevu alma süreci farklı ilerliyor. Bununla birlikte, **vize süreci uzun sürdüğü için** bu aşamaya gelmeden önce başvurular hakkında genel bilgi edinmeniz ve gereken belgeleri hazırlamaya başlamanız akıllıca olur.
+
+Vize başvuru sürecinde erken aksiyon alınması gereken konulardan biri de garantör belgesi. Bu belge kendi başına gerekli değil; ancak bloke hesap yerine kullanılabiliyor ve hazırlanması zaman alabiliyor. Eğer Almanya’da size garantör olabilecek biri varsa bu belgeyi mümkün olan en kısa sürede hazırlamaya başlamanızı öneririm. Garantör belgesi hakkında daha fazla bilgi için yazının bir sonraki bölümlerine bakabilirsiniz.
+
+## Bloke Hesap yerine Garantör Belgesi
+
+Almanya’da öğrenci vizesine başvururken finansal güvencenizi göstermek için genellikle iki yöntemden biri istenir:
+ 1. Bloke Hesap (Sperrkonto) - Expatrio, Fintiba gibi aracı kurumlar üzerinden açılır.
+ 2. Garantörlük Belgesi (Verpflichtungserklärung) - Almanya’da ikamet eden bir kişinin sizin maddi sorumluluğunuzu resmî olarak üstlenmesi anlamına gelir.
+
+Bloke hesap, Almanya’ya öğrenci vizesi alırken yıllık yaşam masraflarınızı (2025 itibarıyla yaklaşık €11,000 - €12,000) teminat altına almak için açılan bir “kilitli” banka hesabıdır. Expatrio, Fintiba veya Deutsche Bank gibi sağlayıcılar üzerinden açılır; parayı yatırdıktan sonra hesap onay belgesini vize dosyanıza eklersiniz. Almanya’ya geldiğinizde bloke çözüldüğünde bu tutara aylık olarak (yaklaşık €950) erişirsiniz.
+
+Bloke hesap yerine garantör belgesi sunmayı tercih edenler için süreç, Almanya’da ikamet eden ve yeterli geliri bulunan bir tanıdığınızın --akraba olmasına gerek yok-- sizin maddi sorumluluğunuzu üstlenmesiyle başlar. Garantör, bağlı bulunduğu Ausländerbehörde’den randevu alarak pasaport veya kimliği, son üç aylık maaş bordroları (serbest meslekliyse vergi beyannamesi), kira sözleşmesi gibi gider kanıtları ve sizin temel kimlik bilgilerinizi (ad, doğum tarihi, pasaport numarası, Türkiye adresi) ibraz eder. Göçmenlik memuru, net gelirden temel yaşam giderlerini düşerek en az €992’luk bir fazla tutar kalıp kalmadığını hesaplar; çocuklu ya da evli garantörlerde bu eşik brüt €3,800 - €4,200 aralığına çıkabiliyor. Gelir yeterli görülürse, yaklaşık €29’luk işlem ücreti ödenir ve belge düzenlenir.
+
+Hazırlanan belgenin üzerinde “Studium” ya da “Sprachkurs und Studium” ibaresinin bulunması ve *Stellungnahme der Ausländerbehörde/Auslandsvertretung* bölümündeki “nachgewiesen” kutucuğunun işaretli olması çok önemlidir; konsolosluklar başka ibare veya boş bırakılmış alan gördüğünde evrak eksikliği gerekçesiyle randevunuzu erteleyebiliyor. Belge düzenlendiği tarihten itibaren altı ay geçerli olduğundan kabul mektubu beklenmeden çıkarılması mümkündür fakat randevu ve posta sürelerini hesaba katarak özellikle Berlin, Hamburg, Münih gibi yoğun şehirlerde en az üç-dört ay önceden süreci başlatmak akıllıca olur.
+
+Vize başvurusunu bloke hesapla yapıp Almanya’ya geldikten sonra garantör bulmayı seçerseniz, bankadaki blokeyi kaldırmanız da mümkündür; tersine, garantör belgesi geç kalırsa bloke hesapla devam etmek de mümkündür. Vize randevusuna belgenin aslı ve bir fotokopisiyle gitmek, ayrıca e-postayla gönderilmiş taramaları da yanınızda bulundurmak süreci sorunsuzlaştırır.
+
+Kısacası, garantörlük belgesi yeterli gelire sahip bir yakının desteğini resmîleştirerek bloke hesap zorunluluğunu ortadan kaldıran pratik ve maliyet açısından avantajlı bir alternatiftir; ancak hazırlanma süresi ve belgedeki kritik işaretlemeler nedeniyle zamanı iyi planlamak ve ayrıntılara özen göstermek şarttır.
+
+#### Kimler Garantör Olabilir?
+ - Almanya’da yasal olarak ikamet eden biri (vatandaş, oturum sahibi vb.)
+ - Yeterli gelire sahip olması gerekir (maaş bordrosu, vergi dökümü istenebilir)
+ - Kişinin maddi durumuna göre garantörlük verip veremeyeceği yetkili makamlarca belirlenir
+
+### Tavsiyem
+Eğer Almanya’da size garantör olabilecek biri varsa bu yolu mutlaka değerlendirmenizi öneririm. Bloke hesap sürecine göre daha az maliyetli ve esnek olabiliyor. Ancak garantör olacak kişinin bu sorumluluğu üstlenmeye istekli olması ve yerel göçmenlik ofisinin süreci uzun sürdürme ihtimali göz önünde bulundurulmalı. Vaktiniz varsa belgelerinizi erken hazırlamaya başlamak çok önemli.
+
+Deutschstudent topluluğunda daha fazlası için:
+ - 🔗 [https://community.deutschstudent.com/viewtopic.php?p=246939&hilit=garant%C3%B6r#p246939](https://community.deutschstudent.com/viewtopic.php?p=246939&hilit=garant%C3%B6r#p246939)
 
 ## Yeşil Pasaportum Var, Vize Almam Gerekir mi?
 
  - **Önemli Not:** Bu durumlar ve aşağıda bahsedilen hususlar için bir uzmandan bilgi almanız ve güncel kaynakları incelemeniz çok daha iyi olacaktır.
 
-Kısa cevap: Evet.
+*Kısa cevap:* Evet.
 
-Orta cevap: Evet, hatta bordo pasaport çıkartıp vizeyi ona almanız daha iyi olur.
+*Orta cevap:* Evet, hatta bordo pasaport çıkartıp vizeyi ona almanız daha iyi olur.
 
-Uzun cevap: Yeşil pasaport (hususi pasaport) sahibi olanlar, Almanya’ya 90 güne kadar olan turistik veya iş amaçlı ziyaretlerde vize muafiyetinden yararlanabilirler. Ancak, **Almanya’da yüksek lisans eğitimi almak için ulusal vize (D tipi vize)** almanız gerekecek. Yani, yeşil pasaportunuz olsa bile, Almanya’da eğitim alabilmek için vize başvurusu yapmanız şarttır.
+*Uzun cevap:* Yeşil pasaport (hususi pasaport) sahibi olanlar, Almanya’ya 90 güne kadar olan turistik veya iş amaçlı ziyaretlerde vize muafiyetinden yararlanabilirler. Ancak, **Almanya’da yüksek lisans eğitimi almak için ulusal vize (D tipi vize)** almanız gerekecek. Yani, yeşil pasaportunuz olsa bile, Almanya’da eğitim alabilmek için vize başvurusu yapmanız şarttır.
 
 Vizeyi mümkünse yeşil değil, bordo pasaportunuza çıkartmanızı da tavsiye ederim. Eğer bordo pasaportunuz yoksa yeşilinizi iptal etmeden almanız da mümkün. Çünkü yeşil pasaportunuza vize almanız durumunda hem vize sürecinde hem de Almanya'daki çeşitli süreçlerde bazı sorunlarla karşılaşabilirsiniz. Üstelik yüksek lisansa aşağı yukarı 23-24 yaşınızda başvurduğunuzu ve yeşil pasaportun 25 yaşınıza kadar geçerli olduğunu düşünürsek bütün vize sürecini daha uzun süreli tek bir bordo pasaportla halletmeniz daha mantıklı olacaktır.
 
@@ -47,7 +76,7 @@ iDATA hakkında daha fazla bilgi almak için:
 
 ### Auslandsportal Nedir?
 
-2025 itibarıyla önce Ankara bölgesi ve doğusunda ikamet eden başvuru sahipleri (Ankara Büyükelçiliği görev alanındaki şehirler), sonrasında ise diper bölgelerle beraber bütün Türkiye için süreç artık doğrudan Almanya'nın dijital vize başvuru platformu olan Auslandsportal üzerinden yürütülmektedir. iDATA'nın ulusal vize randevu başvuru formu da artık sizi Auslandsportal'a yönlendirmektedir, benim tavsiyem iDATA'nın ulusal vize randevusu formunu doldurup **formun sonundaki bu linke tıklayarak doğrudan Auslandsportal'a gitmenizdir**. Auslandsportal, vize başvuru sürecini dijitalleştiren ve kolaylaştıran bir platformdur. Bu platform üzerinden vize başvurunuzu yapabilir, gerekli belgeleri yükleyebilir ve randevu alabilirsiniz.
+2025 itibarıyla önce Ankara bölgesi ve doğusunda ikamet eden başvuru sahipleri (Ankara Büyükelçiliği görev alanındaki şehirler), sonrasında ise diper bölgelerle beraber bütün Türkiye için süreç artık doğrudan Almanya'nın dijital vize başvuru platformu olan Auslandsportal üzerinden yürütülmektedir. iDATA'nın ulusal vize randevu başvuru formu da artık sizi Auslandsportal'a yönlendirmektedir, benim tavsiyem iDATA'nın ulusal vize randevusu formunu doldurup **formun sonunda çıkan linke tıklayarak doğrudan Auslandsportal'a gitmenizdir**. Auslandsportal, vize başvuru sürecini dijitalleştiren ve kolaylaştıran bir platformdur. Bu platform üzerinden vize başvurunuzu yapabilir, gerekli belgeleri yükleyebilir ve randevu alabilirsiniz.
 
 Auslandsportal'ın temel özellikleri şunlardır:
 
@@ -58,7 +87,7 @@ Auslandsportal'ın temel özellikleri şunlardır:
 
 ## Portaldan Başvuru Nasıl Yapılır?
 
-Portaldaki arayüz bence yeterince kullanıcı dostu. İlk olarak, Auslandsportal'a giriş yapmanız gerekiyor. Eğer daha önce bir hesabınız yoksa, yeni bir hesap oluşturmanız gerekecek. Portala giriş yapmak ve formu doldurmaya başlamak için bütün belgelerinizin ve bilgilerinizin hazır olmasına gerek yok, sisteme tekrar giriş yaparak başvurunuza kaldığınız yerden devam edebiliyorsunuz. Sistemi tanımak ve erken başlamak adına bunu yapabilirsiniz. Hesabınızı oluşturduktan sonra, vize başvuru formunu doldurmaya başlayabilirsiniz. 
+Portaldaki arayüz bence yeterince kullanıcı dostu. İlk olarak Auslandsportal'a giriş yapmanız gerekiyor. Eğer daha önce bir hesabınız yoksa yeni bir hesap oluşturmanız gerekecek. Portala giriş yapmak ve formu doldurmaya başlamak için bütün belgelerinizin ve bilgilerinizin hazır olmasına gerek yok, sisteme tekrar giriş yaparak başvurunuza kaldığınız yerden devam edebiliyorsunuz. Sistemi tanımak ve erken başlamak adına bunu yapabilirsiniz. Hesabınızı oluşturduktan sonra, vize başvuru formunu doldurmaya başlayabilirsiniz. 
 
 Formu doldururken vizeyi alış amacınızı belirlenen sorular soruluyor ve almak istediğiniz vize türü doğrudan portal tarafından belirleniyor. Sonrasında portal otomatik olarak gerekli belgeleri ve formları size hazırlıyor. Bu aşamada dikkat etmeniz gereken en önemli nokta, **başvuru formunu eksiksiz ve doğru bir şekilde doldurmanızdır**. Eksik veya yanlış bilgi vermeniz, başvurunuzun reddedilmesine veya gecikmesine neden olabilir.
 
@@ -90,7 +119,7 @@ Bir de sizden istenen vize ücretini (€75) görüşme sırasında iDATA ofisin
 
 Vize görüşmesinde pasaportunuzu ve belgelerinizi teslim ettikten sonra size bir barkod numarası ve bir SIM kart veriliyor. Barkod numaranızı kullanarak vize başvurunuzun durumunu takip edebilirsiniz. SIM kart ise Almanya'ya vardığınızda kullanmanız için veriliyor, bu yüzden onu da saklamanızı öneririm; ancak çoğu insan bu SIM kartını geçici bir çözüm olarak kullanıyor, çünkü Almanya'da kalıcı bir telefon hattı almak daha hesaplı oluyor.
 
-Benim vize başvurumdan yaklaşık 4 hafta sonra bana **Referat TN – Türkei und Naher und Mittlerer Osten / Abteilung V – Visa, Bundesamt für Auswärtige Angelegenheiten (BfAA)**'dan (Almanya Federal Dışişleri Dairesi (BfAA) Vize Dairesi – Türkiye ile Yakın ve Orta Doğu Masası) bir mail geldi. Bu mailde, benden TU Berlin'de aktif öğrenciliğimi kanıtlayan bir öğrenci belgesini ertesi günün sonuna kadar iletmem istendi. Bu tür mailler, vize başvuru sürecinin bir parçası olarak sıkça karşılaşabileceğiniz durumlardır. Bu nedenle, başvuru süreciniz boyunca e-posta adresinizi düzenli olarak kontrol etmeniz önemlidir.
+Benim vize başvurumdan yaklaşık 4 hafta sonra bana **Referat TN - Türkei und Naher und Mittlerer Osten / Abteilung V - Visa, Bundesamt für Auswärtige Angelegenheiten (BfAA)**'dan (Almanya Federal Dışişleri Dairesi (BfAA) Vize Dairesi - Türkiye ile Yakın ve Orta Doğu Masası) bir mail geldi. Bu mailde, benden TU Berlin'de aktif öğrenciliğimi kanıtlayan bir öğrenci belgesini ertesi günün sonuna kadar iletmem istendi. Bu tür mailler, vize başvuru sürecinin bir parçası olarak sıkça karşılaşabileceğiniz durumlardır. Bu nedenle, başvuru süreciniz boyunca e-posta adresinizi düzenli olarak kontrol etmeniz önemlidir.
 
 ## Kronoloji
 
