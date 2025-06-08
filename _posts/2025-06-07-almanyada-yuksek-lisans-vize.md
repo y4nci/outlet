@@ -74,6 +74,7 @@ iDATA, **vizeyi doğrudan veren kurum değildir**; yalnızca başvurunuzu Almany
 iDATA hakkında daha fazla bilgi almak için:
  - 🔗 [https://idata.com.tr](https://idata.com.tr)
 
+
 ### Auslandsportal Nedir?
 
 2025 itibarıyla önce Ankara bölgesi ve doğusunda ikamet eden başvuru sahipleri (Ankara Büyükelçiliği görev alanındaki şehirler), sonrasında ise diğer bölgelerle beraber bütün Türkiye için süreç artık doğrudan Almanya'nın dijital vize başvuru platformu olan Auslandsportal üzerinden yürütülmektedir. iDATA'nın ulusal vize randevu başvuru formu da artık sizi Auslandsportal'a yönlendirmektedir, benim tavsiyem iDATA'nın ulusal vize randevusu formunu doldurup **formun sonunda çıkan linke tıklayarak doğrudan Auslandsportal'a gitmenizdir**. Auslandsportal, vize başvuru sürecini dijitalleştiren ve kolaylaştıran bir platformdur. Bu platform üzerinden vize başvurunuzu yapabilir, gerekli belgeleri yükleyebilir ve randevu alabilirsiniz.
