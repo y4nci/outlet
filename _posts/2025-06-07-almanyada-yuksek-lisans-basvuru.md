@@ -13,7 +13,7 @@ Bu rehberde elbette bütün okulları dahil ederek bu süreci anlatmak oldukça 
 
 ## Ben Kimim?
 
-Ben ODTÜ Bilgisayar Mühendisliği'nden Ocak 2025'te mezun oldum, Nisan 2025'den beri de TU Berlin'de *Computer Science (Informatik)* yüksek lisansı yapıyorum. Hakkımda daha fazla bilgi almak ve geçmişteki çalışmalarımı görmek için [kişisel web sitemi](https://y4nci.github.io) ve [LinkedIn profilimi](https://www.linkedin.com/in/baran-yanci/) ziyaret edebilirsiniz.
+Ben ODTÜ Bilgisayar Mühendisliği'nden Ocak 2025'te mezun oldum, Nisan 2025'den beri de TU Berlin'de *Computer Science (Informatik)* yüksek lisansı yapıyorum. Hakkımda daha fazla bilgi almak ve geçmişteki çalışmalarımı görmek için [kişisel web sitemi](http://baranyanci.com) ve [LinkedIn profilimi](https://www.linkedin.com/in/baran-yanci/) ziyaret edebilirsiniz.
 
 ## Başvuru Süreci Ne Zaman Başlar?
 
